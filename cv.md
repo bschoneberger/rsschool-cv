@@ -31,4 +31,4 @@ function multiply(a,b){
 *There is no experience yet... But only for now.
 ## Languages
 * *Russian* (Native)
-* *English* ([EF SET 50](https://www.efset.org/ef-set-50/) Test result: *Intermediate B1*)
+* *English* ([EF SET 50](https://www.efset.org/ef-set-50/) Test result: ***Intermediate B1***)
